@@ -27,6 +27,7 @@ Internal wallhack (ESP) for Counter-Strike 2
 
 # Missing
 - Add a config file to pick the skeleton line color.
+- Sometimes an enemy won't show for a few rounds. (Easter Egg)
 
 
 ## &nbsp;
