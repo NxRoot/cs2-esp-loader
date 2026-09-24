@@ -22,6 +22,7 @@ Internal wallhack (ESP) for Counter-Strike 2
 # How to use
 - Run the loader and wait for game to open.
 - Press 0 to switch between Enemies only.
+- Press END to unload the script.
 
 
 # Missing
