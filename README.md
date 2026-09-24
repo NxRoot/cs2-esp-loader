@@ -2,13 +2,13 @@
 
 Internal wallhack (ESP) for Counter-Strike 2
 
-<img src="https://github.com/NxRoot/cs2-esp-loader/blob/master/preview.png" width="80%" alt="Alt text" title="icon">
+<img src="https://github.com/NxRoot/cs2-esp-loader/blob/main/preview.png" width="80%" alt="Alt text" title="icon">
 
 # How to Install
 
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
-| <a href="https://github.com/NxRoot/cs2-esp-loader/releases"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://github.com/NxRoot/cs2-esp-loader/blob/master/preview.jpg"/></a> | CS2 Wallhack    | [Download](https://github.com/NxRoot/cs2-esp-loader/releases)    |
+| <a href="https://github.com/NxRoot/cs2-esp-loader/releases"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://github.com/NxRoot/cs2-esp-loader/blob/main/preview.jpg"/></a> | CS2 Wallhack    | [Download](https://github.com/NxRoot/cs2-esp-loader/releases)    |
 
 # Features
 - 💫 Automatic - Loader opens game automatically.
