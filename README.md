@@ -19,6 +19,9 @@ Internal wallhack (ESP) for Counter-Strike 2
 # Missing
 - Add a config file to pick the skeleton line color.
 
+# More
+- Press 0 to switch between Enemies only.
+
 
 ## &nbsp;
 ⭐ If you find this useful!
