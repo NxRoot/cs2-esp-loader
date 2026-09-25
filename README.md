@@ -7,6 +7,8 @@ Internal wallhack (ESP) for Counter-Strike 2
 
 # How to Install
 
+Extract the .zip file and run the setup
+
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
 | <a href="https://github.com/NxRoot/cs2-esp-loader/releases"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://github.com/NxRoot/cs2-esp-loader/blob/main/preview.jpg"/></a> | CS2 Wallhack    | [Download](https://github.com/NxRoot/cs2-esp-loader/releases)    |
@@ -27,7 +29,6 @@ Internal wallhack (ESP) for Counter-Strike 2
 
 # Missing
 - Add a config file to pick the skeleton line color.
-- Sometimes an enemy won't show for a few rounds. (Easter Egg)
 
 
 ## &nbsp;
