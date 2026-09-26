@@ -4,7 +4,6 @@ Internal wallhack (ESP) for Counter-Strike 2
 
 <img src="https://github.com/NxRoot/cs2-esp-loader/blob/main/preview.png" width="80%" alt="Alt text" title="icon">
 
-
 # How to Install
 
 Extract the .zip file and run the setup
