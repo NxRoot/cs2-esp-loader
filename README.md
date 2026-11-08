@@ -22,12 +22,15 @@ Extract the .zip file and run the setup
 
 # How to use
 - Run the loader and wait for game to open.
-- Press 0 to switch between Enemies only.
-- Press END to unload the script.
+- Press INSERT to open UI menu.
+- Press END to unload.
 
 
-# Missing
-- Add a config file to pick the skeleton line color.
+# Includes
+- Wallhack ESP (Skeleton)
+- Auto Bunny-Hop (Hold Jump)
+- Give Butterfly (Knife)
+- Aimbot (Auto Aim)
 
 
 ## &nbsp;
